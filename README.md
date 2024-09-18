@@ -9,3 +9,7 @@ Subdomínios válidos são salvos como output.txt
 
 go install github.com/lupedsagaces/subtest@latest
 ```
+## Como funciona:
+Ao rodar o comando subtest, o script pedirá o domínio principal: ex: redbull.com
+Depois, é solicitado o caminho e nome do arquivo que contém os subdomínios.
+Após isso, é apenas aguardar o script validar.
