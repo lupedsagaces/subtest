@@ -4,3 +4,8 @@ O programa lê uma lista de subdomínios de um arquivo e testa cada um para ver 
 Subdomínios válidos são salvos como output.txt
 
 
+## Como instalar a ferramenta:
+```bash
+
+go install github.com/lupedsagaces/subtest@latest
+```
